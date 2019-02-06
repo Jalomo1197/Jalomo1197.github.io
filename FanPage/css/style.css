@@ -9,6 +9,12 @@ h1{
    color:white;
 }
 
+h5{
+  font-family:courier;
+  color:white;
+  position: flex;
+}
+
 p{
     font-family:courier;
     color:white;
@@ -39,6 +45,13 @@ p{
   padding: 0px;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 40px;
+}
 
 #mainContainer{
     width: 100%;
@@ -72,7 +85,7 @@ p{
 
 .Arya{
   padding: 0px;
-  background: url(../images/Ashark.jpg);
+  background: url(../images/Ashark.png);
   transition: transform .2s; /* Animation */
   width: 400px;
   height: 500px;
@@ -96,3 +109,14 @@ p{
   transform: scale(1.2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
+
+.button {
+  background-color: rgb(128,0,0); /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
