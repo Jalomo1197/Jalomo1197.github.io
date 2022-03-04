@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Jalomo1197.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/Jalomo1197.github.io/static/js/main.d1e3dd1b.js",
+    "static/js/787.ccebc86f.chunk.js": "/Jalomo1197.github.io/static/js/787.ccebc86f.chunk.js",
+    "static/media/logo.svg": "/Jalomo1197.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Jalomo1197.github.io/index.html",
+    "main.073c9b0a.css.map": "/Jalomo1197.github.io/static/css/main.073c9b0a.css.map",
+    "main.d1e3dd1b.js.map": "/Jalomo1197.github.io/static/js/main.d1e3dd1b.js.map",
+    "787.ccebc86f.chunk.js.map": "/Jalomo1197.github.io/static/js/787.ccebc86f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d1e3dd1b.js"
+  ]
+}
